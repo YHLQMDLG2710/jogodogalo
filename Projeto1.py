@@ -1,3 +1,4 @@
+
 def eh_tabuleiro(n):
     if isinstance(n,tuple) and len(n)==3:
         for i in range(3):
